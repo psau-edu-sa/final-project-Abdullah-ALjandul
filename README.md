@@ -19,7 +19,7 @@ to facilitate understand of the relationship between these requirements, we util
 additionally, we used diagrams to design the user interface models for the Sehhaty app, which illustrated the flow of interaction between
 patients, medical staff, and support within the Sehhaty app.
 
-Overall, our project involved identifying the requiirements, bothe fonctional and non-fonctional requirements, and designing solutions to solve 
+Overall, our project involved identifying the requirements, bothe fonctional and non-fonctional requirements, and designing solutions to solve 
 the problems that app aims to address. by using diagrams, we could easily visualize the relationship between the requirements and prioritize 
 takes, resulting in a more efficient development process.
 
